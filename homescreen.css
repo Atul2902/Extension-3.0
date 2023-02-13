@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bar-heading {
+    width: 100vw;
+    height: 7vh;
+    left: 1px;
+    top: 79px;
+    background: #B1ECFF;
+}
+
+.bar-heading {
+    padding-top: 13px;
+    padding-left: 20px;
+}
+
+.bar-heading-text {
+    width: 106px;
+    height: 23px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #404040;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.main-heading {
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.logo {
+    height: 24px;
+    width: 24px;
+    margin-top: 4px;
+    margin-right: 10px;
+}
+
+.main-heading-text {
+    color: #00BFFF;
+    text-align: center;
+    font-weight: 600;
+    font-family: Montserrat;
+    font-size: 24px;
+}
+
+.youtube {
+    height: 324px;
+    width: 400px;
+    padding-left: 30vw;
+    padding-right: 200px;
+    margin-bottom: 15vh;
+    padding-top: 50px;
+}
+
+.lines {
+
+    margin-top: 50px;
+    width: 100vw;
+
+    margin-bottom: 30px;
+}
+
+.first-line {
+    display: flex;
+    justify-content: center;
+
+    height: 33px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    color: #606060;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.second-line {
+    display: flex;
+    justify-content: center;
+    height: 33px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    color: #D198FF;
+}
+
+.button {
+    height: 50px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    position: absolute;
+    width: 509px;
+    background: #B1ECFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.125);
+    border-radius: 12px;
+    margin-left: 32vw;
+    margin-bottom: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.google-image {
+    height: 80%;
+    position: absolute;
+    padding-left: 70px;
+    left: 8.33%;
+    right: 8.34%;
+    top: 8.33%;
+    bottom: 8.33%;
+}
