@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bar {
+    background-color: #B1ECFF;
+    align-items: center;
+}
+
+.bar-heading {
+    font-family: Monsterrat;
+    padding-left: 40px;
+    padding-top: 14px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main-heading {
+    text-align: center;
+    padding: 20px;
+    Font-family: Montserrat;
+    Font-size: 24px;
+    Line-height: 26px;
+    Line-height: 110%;
+    font-weight: 600;
+}
+
+.gif {
+    align-items: center;
+}
+
+.Points {
+    Padding-left: 478px;
+    padding-right: 465px;
+    Padding-top: 46px;
+    Padding-bottom: 46px;
+    margin-bottom: 80px;
+}
+
+.points-text {
+    font-family: Montserrat;
+    Font-size: 18px;
+    Line-height: 22px;
+    Line-height: 100%;
+    padding: 20px;
+}
+
+
+
+
+.vl {
+    border-left: 3px solid grey;
+    height: 700px;
+    position: absolute;
+    right: 77%;
+    margin-top: 60px;
+    top: 0;
+}
+
+.vl_2 {
+    border-left: 3px solid grey;
+    height: 700px;
+    position: absolute;
+    left: 77%;
+    margin-top: 60px;
+    top: 0;
+}
+
+
+
+
+.space {
+    padding-right: 20px;
+    width: 15.75px;
+    Height: 11.25px;
+    color: Rgb(0, 0, 1);
+
+}
+
+.button {
+    background-color: #B1ECFF;
+    width: 509px;
+    height: 50px;
+    border-radius: 12px;
+    margin-bottom: 75px;
+    position: absolute;
+    bottom: 0;
+    padding-top: 8px;
+
+}
+
+.button-text {
+    font-family: Monsterra;
+    Font-size: 16px;
+    Line-height: 20px;
+    Line-height: 100%;
+    Fill: Solid#292929;
+    padding-top: 5px;
+}
